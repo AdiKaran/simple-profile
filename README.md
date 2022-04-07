@@ -1,1 +1,2 @@
-A Simple portfolio website built using React
+A Simple portfolio website built using React (Hosted on Netlify)
+
